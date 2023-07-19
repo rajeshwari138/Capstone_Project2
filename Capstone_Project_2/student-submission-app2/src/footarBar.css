@@ -1,0 +1,56 @@
+.footer-container {
+    width: auto;
+    padding-top : 20px;
+    padding-bottom : 20px;
+    height: 300px;
+    background-color: rgb(59, 58, 58);
+    margin-bottom: 0px;
+}
+
+.footer-containt {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.address, .country, .mobile, .email, .phone {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: auto;
+    color: whitesmoke;
+}
+
+.aboutProject > p {
+    width: 250px;
+    height: auto;
+    color: whitesmoke;
+}
+
+ul > li {
+    text-align: left;
+    color: whitesmoke;
+    line-height: 35px;
+}
+
+p {
+    text-align: left;
+}
+
+h5 {
+    color: whitesmoke;
+}
+
+.footer-border {
+    width: auto;
+    height: 30px;
+    margin-bottom: 0px;
+    margin-top: -16px;
+    background-color: rgb(18, 18, 24);
+}
+
+.footer-border > p {
+    color: whitesmoke;
+    padding-top: 7px;
+    margin-left: 150px;
+}
